@@ -37,8 +37,8 @@ SM사업이란?
 
 ## Stack
 - Front-End
-  - Angular 4
-  - Ionic
+  - Angular 2
+  - Ionic 2
   - lodash
   - ts-xlsx
 
